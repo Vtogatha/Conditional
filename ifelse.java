@@ -6,6 +6,7 @@ public class ifelse {
 
 	public static void main(String[] args) {
 		//variaveis
+		//v
 		int   p = 0, i = 0;
 		Scanner teclado = new Scanner(System.in);
 		//entradas
